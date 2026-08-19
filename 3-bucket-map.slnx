@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="3-bucket-map/3-bucket-map.vcxproj" Id="a6f4aa69-ec9f-46d8-b9cc-f64f0bc89c9b" />
+</Solution>
