@@ -47,13 +47,3 @@ Frank   900123
 -----------------
 ```
 ***
-
-### Next Steps to Finalize
-1. **Add the file**: Follow the steps from our previous turn to create this `README.md` file inside your Visual Studio project directory.
-2. **Commit and Push**: Type "Added README documentation" in your **Git Changes** tab, click **Commit All**, and click the **Up Arrow (Push)** button.
-
-Once you refresh your GitHub link in your browser, this beautiful formatted layout will instantly appear on the front page of your project!
-
----
-
-If you'd like, I can help you write the **exact text bullet points** for this project to put right onto your resume next. How does that sound?
